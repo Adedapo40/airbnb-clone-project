@@ -21,3 +21,16 @@
 
 ## Database Design
 
+</br>
+
+## Feature Breakdown
+
+</br>
+
+## API Security
+
+</br>
+
+## CI/CD Pipeline
+
+
